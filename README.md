@@ -52,4 +52,4 @@ Reports results clearly to the user
 Logs the scanning progress and errors for troubleshooting
 Enhanced understanding of basic networking, socket programming, and multithreading
 
-[Setup Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
+[2.Setup Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)
