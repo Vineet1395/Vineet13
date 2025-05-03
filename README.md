@@ -59,5 +59,5 @@ Enhanced understanding of basic networking, socket programming, and multithreadi
 
 Video References:-
 [1](https://www.youtube.com/watch?v=6hnoc0h9Lsg)
-[2](https://www.youtube.com/watch?v=EF6fqnnl3Uk)
-[3](https://www.youtube.com/watch?v=Ez8F0nW6S-w)
+#[2](https://www.youtube.com/watch?v=EF6fqnnl3Uk)
+#[3](https://www.youtube.com/watch?v=Ez8F0nW6S-w)
